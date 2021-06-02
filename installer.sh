@@ -20,7 +20,7 @@ echo -e '\e[1;33m
      \033[91m [\033[96m*\033[91m] \033[97mTelegram \033[5m\033[1;91m=  \033[97m@OnlineHacking   \033[25m 
      \033[91m [\033[96m*\033[91m] \033[97mFacebook \033[1;91m= \033[5m \033[97mOnline Hacking  \033[25m      
 
-\e[1;34m
+\e[31m
   Usage of EASYSPLOIT for attacking targets without prior mutual consent is
   ILLEGAL. Developers are not responsible for any damage caused by this script.
   EASYSPLOIT is intented ONLY FOR EDUCATIONAL PURPOSES!!! STAY LEGAL!!!
@@ -29,7 +29,7 @@ echo -e '\e[1;33m
          
 	   \033[93mOnline Hacking (\033[96mSUMAN\033[93m) 
 	 
-                       (INSTALLATION COMPLETED)
+             \e[34m          (INSTALLATION COMPLETED)
 
                                                              \e[1;32m
 
