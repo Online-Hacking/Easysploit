@@ -16,8 +16,9 @@ echo -e '\e[1;33m
  /_____/\__,_/____/\__, //____/ .___/_/\____/_/\__/  (Linux)
                   /____/     /_/                        \e[1;34m
                                 
-                                Created by "KALI LINUX TRICKS"
-                                https://www.youtube.com/c/KALILINUXTRICKS\e[1;31m
+  \033[91m [\033[96m*\033[91m] \033[97mWebsite  \033[91m=  \033[4m\033[1;97mwww.OnlineHacking.xyz \033[24m
+  \033[91m [\033[96m*\033[91m] \033[97mTelegram \033[5m\033[1;91m=  \033[97m@OnlineHacking   \033[25m 
+	\033[91m [\033[96m*\033[91m] \033[97mFacebook \033[1;91m= \033[5m \033[97mOnline Hacking  \033[25m      
 
 
   Usage of EASYSPLOIT for attacking targets without prior mutual consent is
