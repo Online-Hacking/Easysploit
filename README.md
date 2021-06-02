@@ -36,9 +36,9 @@ EasySploit v4.2 (Linux) - Metasploit automation (EASIER and FASTER than EVER)
 
 # How to install (The terminal must be launched as root user):
 
-git clone https://github.com/KALILINUXTRICKSYT/easysploit.git
+git clone https://github.com/AdminOnlineHacking/Easysploit
  
-cd easysploit
+cd Easysploit
 
 bash installer.sh
 
@@ -46,15 +46,3 @@ bash installer.sh
 
 Type anywhere in your terminal "easysploit".
 
-# Video tutorials:
-
-https://www.youtube.com/watch?v=v3xn9MDmTaY
-
-https://www.youtube.com/watch?v=9J479dModb8
-
-https://www.youtube.com/watch?v=UOUry9ov9rM
-
-
-# Support us: 
-
-https://www.patreon.com/kalilinuxtricks
