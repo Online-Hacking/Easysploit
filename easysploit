@@ -20,7 +20,7 @@ ip=$(ip addr show wlan0 | awk '/inet / {print $2}' | cut -d/ -f 1)
        \033[91m [\033[96m*\033[91m] \033[97mWebsite  \033[91m=  \033[4m\033[1;97mwww.OnlineHacking.xyz \033[24m
        \033[91m [\033[96m*\033[91m] \033[97mTelegram \033[5m\033[1;91m=  \033[97m@OnlineHacking   \033[25m 
        \033[91m [\033[96m*\033[91m] \033[97mFacebook \033[1;91m= \033[5m \033[97mOnline Hacking  \033[25m     
-
+\e[93m
  Usage of EASYSPLOIT for attacking targets without prior mutual consent is
  ILLEGAL. Developers are not responsible for any damage caused by this script.
  EASYSPLOIT is intented ONLY FOR EDUCATIONAL PURPOSES!!! STAY LEGAL!!!
